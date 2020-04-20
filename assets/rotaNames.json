@@ -1,0 +1,39 @@
+{
+  "names": [
+    {
+      "name": "Andy",
+      "chosen": 1
+    },
+    {
+      "name": "Belle",
+      "chosen": 1
+    },
+    {
+      "name": "Carl",
+      "chosen": 1
+    },
+    {
+      "name": "Darrell",
+      "chosen": 1
+    },
+    {
+      "name": "Eddie",
+      "chosen": 0
+    },
+    {
+      "name": "Fran",
+      "chosen": 0
+    },
+    {
+      "name": "Gerry",
+      "chosen": 0
+    },{
+      "name": "Harry",
+      "chosen": 0
+    },
+    {
+      "name": "Ivan",
+      "chosen": 0
+    }
+  ]
+}
